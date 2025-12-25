@@ -51,7 +51,7 @@ def emoji_translator(text):
             translated.append(word)
 
     return " ".join(translated)
-'''python
+
 print("🌟 Welcome to Emoji Translator! 🌟")
 print("Type a sentence and see the magic! (Type 'exit' to quit)\n")
 
